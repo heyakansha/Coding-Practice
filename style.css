@@ -30,8 +30,8 @@ width: 500px;
 h2{
     text-align: center;
         box-shadow: 10px 10px 20px 650px rgb(83, 1, 1) ;
-    background-color:rgb(83, 1, 1);
-    color: black;
+    background-color:rgb(0, 0, 0);
+    color: rgb(95, 2, 2);
     
 }
 
